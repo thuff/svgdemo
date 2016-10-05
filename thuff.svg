@@ -1,0 +1,32 @@
+<svg width="500" height="500">
+  //roof
+  <g>
+    <path d="M 225 0 L 400 105 L 50 105 Z" style="fill:#D35400;"></path>
+  </g>
+  //building
+  <g transform="translate(0,0)">
+  	<rect width="300" height="150" x="75" y="105" style="fill:#F5AB35"></rect>
+    //door
+    <g transform="translate(207,180)">
+      <rect width="35" height="70" x="" y="" style="fill:#F2784B; stroke:black;"></rect>
+      <rect width="45" height="5" x="-5" y="70" style="fill:#6C7A89 ;"></rect>
+      <circle cx="5" cy="35" r="2" style="fill:#EB9532 ; stroke:black;"></circle>
+    </g>
+    //window
+    <g transform="translate(120,130)">
+      <rect width="20" height="25" x="" y="" style="fill:#C5EFF7; stroke:black;"></rect>
+<rect width="20" height="25" x="20" y="" style="fill:#C5EFF7; stroke:black;"></rect>
+ <rect width="20" height="25" x="" y="25" style="fill:#C5EFF7; stroke:black;"></rect>
+<rect width="20" height="25" x="20" y="25" style="fill:#C5EFF7; stroke:black;"></rect>
+
+    </g>
+    //window
+    <g transform="translate(285,130)">
+      <rect width="20" height="25" x="" y="" style="fill:#C5EFF7; stroke:black;"></rect>
+<rect width="20" height="25" x="20" y="" style="fill:#C5EFF7; stroke:black;"></rect>
+ <rect width="20" height="25" x="" y="25" style="fill:#C5EFF7; stroke:black;"></rect>
+<rect width="20" height="25" x="20" y="25" style="fill:#C5EFF7; stroke:black;"></rect>
+
+    </g>
+  </g>
+</svg>
